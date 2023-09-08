@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juni213121
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and Entry
+- 🌱 I’m currently learning Python, and I'm mastering Block Coding
 
 <!---
 Juni213121/Juni213121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
